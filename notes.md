@@ -116,3 +116,63 @@ Can't Find any pattern or reason about why littile number of operaions is using 
   - **Total Spending**: $46,989,774,165.58
 ![TopSpending.png](saved_plots\TopSpending.png)
 
+---
+
+**11- Top Supplier by Number of Operation By Fiscal Year**
+
+- **2012-2013**
+  - **Top Supplier**: 1249060.0
+
+- **2013-2014**
+  - **Top Supplier**: 1743406.0
+
+- **2014-2015**
+  - **Top Supplier**: 1743406.0
+
+
+---
+
+**12- Top Supplier and Total Spending By Fiscal Year**
+
+- **2012-2013**
+  - **Top Supplier**: 1087520.0 
+  - **Total Spending**: 11160129000.04
+
+- **2013-2014**
+  - **Top Supplier**: 1029823.0
+  - **Total Spending**: 1029823.0
+
+- **2014-2015**
+  - **Top Supplier**: 1743406.0
+  - **Total Spending**: $3509792000.0
+
+---
+
+**Why The number of operations always high in june in every fiscal year?**
+**12- Top Class and Family Titles by Fiscal Year**
+
+- **2012-2013**
+  - **Top Class Title**: Printer and facsimile and photocopier supplies
+  - **Top Family Title**: Office machines and their supplies and accessories
+
+- **2013-2014**
+  - **Top Class Title**: Petroleum and distillates
+  - **Top Family Title**: Fuels
+
+- **2014-2015**
+  - **Top Class Title**: Petroleum and distillates
+  - **Top Family Title**: Fuels
+
+After Searching it's not according to Family or Class, it's according to it is end of Fiscal Year So many of states expand hish in june in every Fiscal Year
+The government of California tends to spend more in June than in any other month for several reasons related to budget management and the fiscal year:
+
+1. **End of the Fiscal Year**: June marks the end of the fiscal year in California, which concludes on June 30th. During this month, government agencies aim to ensure that they have fully utilized their allocated budget to avoid reductions in the next fiscal year.
+
+2. **Settling Accounts**: Agencies need to settle their accounts and ensure that all bills and dues are paid before the fiscal year ends. This leads to increased spending during this month.
+
+3. **Reallocation of Funds**: Sometimes, there are unused funds in the budget that need to be reallocated or spent before the fiscal year ends to avoid losing them.
+
+4. **Preparation for the New Fiscal Year**: Preparing for the new fiscal year may require additional spending at the end of the current year to ensure a smooth transition between fiscal years.
+
+These combined factors lead to increased government spending in June compared to other months of the year.
+
