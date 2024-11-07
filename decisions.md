@@ -12,3 +12,7 @@
 # 3- I will remove the rows containg missing price values
 ---
 # 4- I will fill the missing values in the Purchase Date with the mean of the period each department takes to fill the Purchase Date, it is the difference in days between the Creation Date and the Purchase Date.
+---
+# 5- I will keep CalCard as it is. just add One-Hot-Encoding to it.
+---
+

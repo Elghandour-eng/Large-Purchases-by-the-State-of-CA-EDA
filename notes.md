@@ -64,3 +64,55 @@ So we will fill the Purchase Date with the mean of the period each department ta
 ---
 
 
+7- Number of Missing Values in CalCard: 0 With Unique Values: ['NO' 'YES']
+Value Conuts: CalCard
+NO     340646
+YES      5372
+Name: count, dtype: int64, that show there is no balance in CalCard Most of purchase is without credit card
+![CalCard.png](saved_plots\CalCard.png)
+
+Can't Find any pattern or reason about why littile number of operaions is using CelCard, so we will keep it as it is
+
+---
+
+![Class Title.png](saved_plots\Class Title.png)
+--- 
+8- **Number Of Oberations In June Is High, In Every Fiscal Year**
+
+![Number Of Oberations In June Is High, In Every Fiscal Year.png](saved_plots\Number Of Oberations In June Is High, In Every Fiscal Year.png)
+---
+
+9- **Top Class and Family Titles by Fiscal Year**
+
+- **2012-2013**
+  - **Top Class Title**: Printer and facsimile and photocopier supplies
+  - **Top Family Title**: Office machines and their supplies and accessories
+
+- **2013-2014**
+  - **Top Class Title**: Petroleum and distillates
+  - **Top Family Title**: Fuels
+
+- **2014-2015**
+  - **Top Class Title**: Petroleum and distillates
+  - **Top Family Title**: Fuels
+
+---
+
+**10- Total Spending By Fiscal Year**
+
+- **2012-2013**
+  - **Top Class Title**: Printer and facsimile and photocopier supplies
+  - **Top Family Title**: Office machines and their supplies and accessories
+  - **Total Spending**: $62,054,189,182.06
+
+- **2013-2014**
+  - **Top Class Title**: Petroleum and distillates
+  - **Top Family Title**: Fuels
+  - **Total Spending**: $42,543,169,213.68
+
+- **2014-2015**
+  - **Top Class Title**: Petroleum and distillates
+  - **Top Family Title**: Fuels
+  - **Total Spending**: $46,989,774,165.58
+![TopSpending.png](saved_plots\TopSpending.png)
+
