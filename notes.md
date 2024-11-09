@@ -200,3 +200,12 @@ Usage: It serves as a legal document and reference for the transaction between t
 ---
 ---
 **17 - Number of locations inside California: 247729**
+---
+**18- Most Common Acquisition Method in Every Fiscal Year**
+ For all facist years, the most common acquisition method is 'Informal Competitive' and 2nd is 'Statewide Contract' and 3rd is 'SB/DVBE Option' 
+ Informal Competitive: This refers to a procurement process where multiple suppliers or service providers compete for a contract, but the process is less formal and may not involve complex official procedures.
+
+Statewide Contract: This indicates contracts that are established at the state level, meaning they are available for use by all government entities within that state.
+
+SB/DVBE Option: This refers to special options or programs that support Small Businesses (SB) or Disabled Veteran Business Enterprises (DVBE). These options are designed to encourage and support these categories of businesses in government procurement processes.
+---
