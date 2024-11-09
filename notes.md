@@ -176,3 +176,27 @@ The government of California tends to spend more in June than in any other month
 
 These combined factors lead to increased government spending in June compared to other months of the year.
 
+---
+
+**14- "Requisition Number", "Purchase Order Number" are similar columns**
+    What 's differen between "Requisition Number", "Purchase Order Number"
+- Requisition Number:
+Purpose: The requisition number is used to identify a request for goods or services within an organization. It is typically generated when a department or individual within the organization identifies a need and formally requests the procurement of specific items or services.
+Stage: This number is associated with the initial stage of the procurement process, where the need is identified and approved internally before any purchasing action is taken.
+Usage: It helps track and manage internal requests and approvals before they are converted into purchase orders.
+- Purchase Order Number:
+
+Purpose: The purchase order number is used to identify a formal order placed with a supplier for goods or services. It is generated after a requisition has been approved and the procurement process has moved forward to the purchasing stage.
+Stage: This number is associated with the later stage of the procurement process, where the organization commits to purchasing the items or services from a supplier.
+Usage: It serves as a legal document and reference for the transaction between the purchasing organization and the supplier, detailing the items, quantities, and agreed prices.
+                   
+**In some rows there is no Requisition Number but there is Purchase Order Number, like index 3, 4 but this not effect on analysis**
+---
+
+**15 -Number of Duplicated Rows: 2084**
+---
+** 16- Location Column is a string that contains zipcode and latitude and longitude**
+ **I will split the string into 3 columns, Zip Code, Latitude and Longitude**
+---
+---
+**17 - Number of locations inside California: 247729**

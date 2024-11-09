@@ -15,4 +15,8 @@
 ---
 # 5- I will keep CalCard as it is. just add One-Hot-Encoding to it.
 ---
-
+# 6- I will remove the column Requisition Number as it dublicate with Purchase Order Number
+---
+# 7- I will remove the duplicated rows that is counted 2084
+---
+# 8- I will split the string into 3 columns, Zip Code, Latitude and Longitude
