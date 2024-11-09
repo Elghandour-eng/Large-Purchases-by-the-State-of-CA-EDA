@@ -1,4 +1,3 @@
-```markdown
 # Data Cleaning and Transformation Steps
 
 1. **Drop Columns with High Percentage of Missing Values**  
@@ -48,4 +47,3 @@
    I will split the Location string into 3 columns: Zip Code, Latitude, and Longitude.
 
 ---
-```
