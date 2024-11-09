@@ -10,3 +10,6 @@ env/
 
 # Ignore environment variable files
 .env
+
+# Ignore any thing end with .csv
+*.csv
